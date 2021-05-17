@@ -1,0 +1,9 @@
+bitfinex:
+ - BTC/USDT
+ - ETH/BTC
+
+poloniex:
+ - ETH/BTC
+ 
+bitmex:
+ - BTC/USD
